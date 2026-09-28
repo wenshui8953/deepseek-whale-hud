@@ -1,0 +1,8 @@
+# 敏感与运行时文件
+.key
+hud-heartbeat.txt
+hud-pos.txt
+hud-pos2.txt
+hud-paint-error.txt
+*.log
+*.bak.ps1
